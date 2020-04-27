@@ -1,6 +1,6 @@
 # Language-Interpreter
 
-a) Realizarea unui mod de a retine informatiile specifice fiecarei clasa
+	a) Realizarea unui mod de a retine informatiile specifice fiecarei clasa
 	------------------------------------------------------------------------
 		Pentru realizarea acestui subpunct a fost utilizat Map-ul din 
 	Haskell, astfel un Classtate reprezinta un Map, fapt evident in 
